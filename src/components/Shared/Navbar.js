@@ -1,33 +1,27 @@
 import { Button, Dropdown, Menu } from "antd";
 import { DownOutlined } from "@ant-design/icons";
 import Link from "next/link";
+import { useEffect, useState } from "react";
 
 const Navbar = () => {
+  const [categories, setCategories] = useState([]);
+  useEffect(() => {
+    fetch("http://localhost:3000/api/categories")
+      .then((res) => res.json())
+      .then((data) => setCategories(data.data));
+  }, []);
+
   const menu = (
-    <Menu>
-      <Menu.Item>
-        <Link href="/processor">Processor</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="/motherboard">Motherboard</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="/ram">RAM</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="/power-supply-unit">Power Supply Unit</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="/storage-device">Storage Device</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="/monitor">Monitor</Link>
-      </Menu.Item>
-      <Menu.Item>
-        <Link href="others">Others</Link>
-      </Menu.Item>
+    <Menu className="w-56">
+      {categories?.map((cat) => (
+        <Menu.Item key={cat._id}>
+          <Link href={`/category/${cat._id}`}>{cat.name}</Link>
+        </Menu.Item>
+      ))}
     </Menu>
   );
+
+  console.log(categories);
 
   return (
     <div className="bg-gray-950 p-4">
