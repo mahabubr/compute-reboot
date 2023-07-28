@@ -6,4 +6,15 @@ const Home = () => {
   );
 };
 
+export const getStaticProps = async () => {
+  const res = await fetch("");
+  const data = await res.json();
+
+  return {
+    props: {
+      products: data,
+    },
+  };
+};
+
 export default Home;
