@@ -21,8 +21,6 @@ const Navbar = () => {
     </Menu>
   );
 
-  console.log(categories);
-
   return (
     <div className="bg-gray-950 p-4">
       <div className="container mx-auto">

@@ -1,0 +1,1198 @@
+[
+  {
+    "Image": "https://images.unsplash.com/photo-1520520688967-7bdc16e77dc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Intel Core i9-9900K Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 349.99,
+    "Description": "The Intel Core i9-9900K is a high-performance CPU with 8 cores and 16 threads, ideal for gaming and content creation.",
+    "Key Features": {
+      "Brand": "Intel",
+      "Model": "Core i9-9900K",
+      "Specification": "3.6GHz Base Clock, 5.0GHz Turbo Boost, LGA1151 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.0V - 1.3V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 120
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1513366884929-f0b3bedfb653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "ASUS ROG Strix Z390-E Gaming Motherboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38e",
+      "name": "Motherboard"
+    },
+    "Status": "Out of Stock",
+    "Price": 229.99,
+    "Description": "The ASUS ROG Strix Z390-E is a high-end gaming motherboard with excellent performance and features.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "ROG Strix Z390-E",
+      "Specification": "ATX Form Factor, LGA1151 Socket, DDR4 RAM Support, USB 3.1 Gen2",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Motherboard",
+      "Resolution": "Up to 4K",
+      "Voltage": "1.2V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.6,
+    "Average Rating (Out of 5 Stars)": 4.4,
+    "Reviews": 80
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1602624511769-6a3487e64934?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Corsair Vengeance LPX 16GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 89.99,
+    "Description": "The Corsair Vengeance LPX 16GB DDR4 RAM delivers excellent performance and is ideal for gaming and multitasking.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "Vengeance LPX",
+      "Specification": "16GB (2 x 8GB) DDR4, 3200MHz, CAS Latency 16",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1609230430613-13cf4862a80f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "EVGA Supernova 850 G3 Power Supply",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c390",
+      "name": "Power Supply Unit"
+    },
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "The EVGA Supernova 850 G3 Power Supply provides reliable and efficient power for high-performance systems.",
+    "Key Features": {
+      "Brand": "EVGA",
+      "Model": "Supernova 850 G3",
+      "Specification": "850W, 80 Plus Gold Certified, Fully Modular",
+      "Port": "N/A",
+      "Type": "ATX Power Supply",
+      "Resolution": "N/A",
+      "Voltage": "100-240V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.5,
+    "Reviews": 70
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1664302342221-bb80e91db095?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Samsung 970 EVO Plus 500GB NVMe SSD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 119.99,
+    "Description": "The Samsung 970 EVO Plus 500GB NVMe SSD offers lightning-fast storage and high-end performance for your PC.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "970 EVO Plus",
+      "Specification": "500GB, NVMe M.2 Interface, Read Speed up to 3500 MB/s, Write Speed up to 3200 MB/s",
+      "Port": "M.2",
+      "Type": "Solid State Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 105
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "Product Name": "Logitech G Pro Mechanical Gaming Keyboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "The Logitech G Pro Mechanical Gaming Keyboard features responsive switches and customizable RGB lighting.",
+    "Key Features": {
+      "Brand": "Logitech",
+      "Model": "G Pro",
+      "Specification": "Mechanical Switches, Customizable RGB Lighting, Detachable Cable",
+      "Port": "USB 2.0",
+      "Type": "Gaming Keyboard",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.5,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1620570625542-194933f7639a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Seagate Barracuda 2TB 7200RPM Hard Drive",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 69.99,
+    "Description": "The Seagate Barracuda 2TB HDD offers ample storage space for your data and multimedia files.",
+    "Key Features": {
+      "Brand": "Seagate",
+      "Model": "Barracuda",
+      "Specification": "2TB, 7200RPM, SATA 6Gb/s",
+      "Port": "SATA",
+      "Type": "Hard Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.6,
+    "Average Rating (Out of 5 Stars)": 4.3,
+    "Reviews": 75
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1547315458-492b3a5eebc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1033&q=80",
+    "Product Name": "AMD Ryzen 5 5600X Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 299.99,
+    "Description": "The AMD Ryzen 5 5600X is a powerful CPU with 6 cores and 12 threads, perfect for gaming and productivity.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Ryzen 5 5600X",
+      "Specification": "3.7GHz Base Clock, 4.6GHz Max Boost Clock, AM4 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.2V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 105
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1653154726310-5dcc764680ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1460&q=80",
+    "Product Name": "MSI GeForce RTX 3080 Gaming X Trio",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "Out of Stock",
+    "Price": 799.99,
+    "Description": "The MSI GeForce RTX 3080 Gaming X Trio delivers exceptional performance for gaming and rendering tasks.",
+    "Key Features": {
+      "Brand": "MSI",
+      "Model": "GeForce RTX 3080 Gaming X Trio",
+      "Specification": "10GB GDDR6X, Triple Fan Cooling, RGB Lighting",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1639004643319-a996b810d37e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=918&q=80",
+    "Product Name": "Crucial Ballistix 32GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 149.99,
+    "Description": "The Crucial Ballistix 32GB DDR4 RAM provides fast and reliable memory performance for your PC.",
+    "Key Features": {
+      "Brand": "Crucial",
+      "Model": "Ballistix",
+      "Specification": "32GB (2 x 16GB) DDR4, 3600MHz, CL16, XMP 2.0",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1681426669771-d2113672a49b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Corsair RM750x 750W Power Supply",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c390",
+      "name": "Power Supply Unit"
+    },
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "The Corsair RM750x 750W PSU offers efficient and quiet power delivery for your high-performance system.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "RM750x",
+      "Specification": "750W, 80 Plus Gold Certified, Fully Modular",
+      "Port": "N/A",
+      "Type": "ATX Power Supply",
+      "Resolution": "N/A",
+      "Voltage": "100-240V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1615293889204-6db03c596147?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Western Digital Blue 1TB SATA SSD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 99.99,
+    "Description": "The Western Digital Blue 1TB SATA SSD offers fast and reliable storage for your files and applications.",
+    "Key Features": {
+      "Brand": "Western Digital",
+      "Model": "Blue",
+      "Specification": "1TB, SATA III Interface, Read Speed up to 560 MB/s, Write Speed up to 530 MB/s",
+      "Port": "SATA",
+      "Type": "Solid State Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 80
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1547315007-284943c46c27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1033&q=80",
+    "Product Name": "LG 34UC79G-B 34-Inch Ultrawide Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 449.99,
+    "Description": "The LG 34UC79G-B is a stunning ultrawide monitor with a 34-inch display and a 144Hz refresh rate.",
+    "Key Features": {
+      "Brand": "LG",
+      "Model": "34UC79G-B",
+      "Specification": "34\" Ultrawide IPS Panel, 2560x1080 Resolution, 144Hz Refresh Rate",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Monitor",
+      "Resolution": "2560x1080",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1681433381649-72ae64d9fb07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1460&q=80",
+    "Product Name": "Razer DeathAdder V2 Gaming Mouse",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 69.99,
+    "Description": "The Razer DeathAdder V2 is a highly accurate gaming mouse with customizable RGB lighting and programmable buttons.",
+    "Key Features": {
+      "Brand": "Razer",
+      "Model": "DeathAdder V2",
+      "Specification": "16,000 DPI Optical Sensor, Razer Optical Mouse Switches, 8 Programmable Buttons",
+      "Port": "USB 2.0",
+      "Type": "Gaming Mouse",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1629725413198-8cbebe94f3a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "G.SKILL Trident Z RGB 64GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 299.99,
+    "Description": "The G.SKILL Trident Z RGB 64GB DDR4 RAM offers a high capacity and stunning RGB lighting for your gaming rig.",
+    "Key Features": {
+      "Brand": "G.SKILL",
+      "Model": "Trident Z RGB",
+      "Specification": "64GB (4 x 16GB) DDR4, 3200MHz, CL16",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1604754742629-3e5728249d73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Corsair H100i RGB Platinum SE AIO Liquid Cooler",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 159.99,
+    "Description": "The Corsair H100i RGB Platinum SE is a high-performance AIO liquid cooler with customizable RGB lighting.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "H100i RGB Platinum SE",
+      "Specification": "240mm Radiator, Dual ML120 PRO RGB PWM Fans, Compatible with Intel and AMD Sockets",
+      "Port": "4-pin PWM",
+      "Type": "AIO Liquid Cooler",
+      "Resolution": "N/A",
+      "Voltage": "12V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1520520688967-7bdc16e77dc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "MSI MAG B550 TOMAHAWK Motherboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38e",
+      "name": "Motherboard"
+    },
+    "Status": "In Stock",
+    "Price": 179.99,
+    "Description": "The MSI MAG B550 TOMAHAWK is a reliable motherboard with strong power delivery and extensive connectivity options.",
+    "Key Features": {
+      "Brand": "MSI",
+      "Model": "MAG B550 TOMAHAWK",
+      "Specification": "ATX Form Factor, AMD AM4 Socket, PCIe 4.0 Support, USB 3.2 Gen2",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Motherboard",
+      "Resolution": "Up to 4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "NVIDIA GeForce RTX 3070 Graphics Card",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 599.99,
+    "Description": "The NVIDIA GeForce RTX 3070 offers exceptional gaming performance and real-time ray tracing capabilities.",
+    "Key Features": {
+      "Brand": "NVIDIA",
+      "Model": "GeForce RTX 3070",
+      "Specification": "8GB GDDR6, Ray Tracing Cores, Triple Fan Cooling",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1681426701125-bed484a8c829?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Samsung Odyssey G9 49-Inch Curved Gaming Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 1499.99,
+    "Description": "The Samsung Odyssey G9 is an immersive 49-inch curved gaming monitor with a 240Hz refresh rate.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "Odyssey G9",
+      "Specification": "49\" Dual QHD (5120x1440) VA Panel, 240Hz Refresh Rate, 1ms Response Time",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Monitor",
+      "Resolution": "5120x1440",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1606414760045-9dd333105737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Intel Core i7-11700K Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 379.99,
+    "Description": "The Intel Core i7-11700K is a high-performance CPU with 8 cores and 16 threads, ideal for gaming and content creation.",
+    "Key Features": {
+      "Brand": "Intel",
+      "Model": "Core i7-11700K",
+      "Specification": "3.6GHz Base Clock, 5.0GHz Turbo Boost, LGA1200 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.0V - 1.3V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1513366884929-f0b3bedfb653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "ASUS ROG Strix RTX 3090 Gaming Graphics Card",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "Out of Stock",
+    "Price": 1599.99,
+    "Description": "The ASUS ROG Strix RTX 3090 Gaming offers extreme gaming performance and real-time ray tracing capabilities.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "ROG Strix RTX 3090 Gaming",
+      "Specification": "24GB GDDR6X, Ray Tracing Cores, Triple Fan Cooling, RGB Lighting",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "8K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 110
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1606414759273-d0302bbcadbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "Product Name": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 159.99,
+    "Description": "The Corsair K70 RGB MK.2 is a premium mechanical gaming keyboard with customizable RGB lighting and Cherry MX switches.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "K70 RGB MK.2",
+      "Specification": "Cherry MX Mechanical Switches, Customizable RGB Lighting, Detachable Wrist Rest",
+      "Port": "USB 2.0",
+      "Type": "Gaming Keyboard",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1639004643331-9526630beb3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=841&q=80",
+    "Product Name": "Samsung 27-inch 4K UHD Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 399.99,
+    "Description": "The Samsung 27-inch 4K UHD monitor delivers stunning visuals and accurate colors for professional work and multimedia.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "27-inch 4K UHD Monitor",
+      "Specification": "27\" 4K UHD IPS Panel, 60Hz Refresh Rate, 5ms Response Time",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Professional Monitor",
+      "Resolution": "3840x2160",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1532186773960-85649e5cb70b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "Product Name": "Logitech G Pro X Wireless Gaming Headset",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 199.99,
+    "Description": "The Logitech G Pro X Wireless Gaming Headset offers high-quality audio and a comfortable design for extended gaming sessions.",
+    "Key Features": {
+      "Brand": "Logitech",
+      "Model": "G Pro X Wireless",
+      "Specification": "Pro-G 50mm Drivers, Blue VO!CE Technology, Lightweight Design",
+      "Port": "USB-A, USB-C",
+      "Type": "Gaming Headset",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1681426687411-21986b0626a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Crucial MX500 1TB SATA SSD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 109.99,
+    "Description": "The Crucial MX500 1TB SATA SSD offers reliable and fast storage for your computer.",
+    "Key Features": {
+      "Brand": "Crucial",
+      "Model": "MX500",
+      "Specification": "1TB, SATA III Interface, Read Speed up to 560 MB/s, Write Speed up to 510 MB/s",
+      "Port": "SATA",
+      "Type": "Solid State Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 80
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1606414760830-c91995a23959?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "Product Name": "AMD Ryzen 7 5800X Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 429.99,
+    "Description": "The AMD Ryzen 7 5800X is a high-performance CPU with 8 cores and 16 threads, perfect for demanding tasks.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Ryzen 7 5800X",
+      "Specification": "3.8GHz Base Clock, 4.7GHz Max Boost Clock, AM4 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.2V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "Product Name": "ASUS TUF Gaming B550-PLUS Motherboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38e",
+      "name": "Motherboard"
+    },
+    "Status": "In Stock",
+    "Price": 159.99,
+    "Description": "The ASUS TUF Gaming B550-PLUS is a durable and feature-rich motherboard for gaming and productivity.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "TUF Gaming B550-PLUS",
+      "Specification": "ATX Form Factor, AMD AM4 Socket, PCIe 4.0 Support, USB 3.2 Gen2",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Motherboard",
+      "Resolution": "Up to 4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1681426664478-b039637f29f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "EVGA Supernova 750 G5 750W Power Supply",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c390",
+      "name": "Power Supply Unit"
+    },
+    "Status": "In Stock",
+    "Price": 139.99,
+    "Description": "The EVGA Supernova 750 G5 750W PSU offers reliable and efficient power delivery for your high-end system.",
+    "Key Features": {
+      "Brand": "EVGA",
+      "Model": "Supernova 750 G5",
+      "Specification": "750W, 80 Plus Gold Certified, Fully Modular",
+      "Port": "N/A",
+      "Type": "ATX Power Supply",
+      "Resolution": "N/A",
+      "Voltage": "100-240V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "LG 27GL850-B 27-Inch Gaming Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 449.99,
+    "Description": "The LG 27GL850-B is a high-quality gaming monitor with a 27-inch QHD Nano IPS display and a 144Hz refresh rate.",
+    "Key Features": {
+      "Brand": "LG",
+      "Model": "27GL850-B",
+      "Specification": "27\" QHD Nano IPS Panel, 2560x1440 Resolution, 144Hz Refresh Rate",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Monitor",
+      "Resolution": "2560x1440",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "Product Name": "Gigabyte GeForce GTX 1660 SUPER Graphics Card",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 249.99,
+    "Description": "The Gigabyte GeForce GTX 1660 SUPER delivers smooth gaming performance and is great for budget-conscious gamers.",
+    "Key Features": {
+      "Brand": "Gigabyte",
+      "Model": "GeForce GTX 1660 SUPER",
+      "Specification": "6GB GDDR6, Dual Fan Cooling, RGB Fusion 2.0",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 80
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=842&q=80",
+    "Product Name": "Corsair Vengeance RGB Pro 32GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 189.99,
+    "Description": "The Corsair Vengeance RGB Pro 32GB DDR4 RAM offers stunning RGB lighting and high-speed performance.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "Vengeance RGB Pro",
+      "Specification": "32GB (2 x 16GB) DDR4, 3200MHz, CL16, XMP 2.0",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1601153211050-ae2e1fa428d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Seagate FireCuda 2TB SSHD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 109.99,
+    "Description": "The Seagate FireCuda 2TB SSHD combines SSD and HDD technologies for improved performance and high capacity.",
+    "Key Features": {
+      "Brand": "Seagate",
+      "Model": "FireCuda",
+      "Specification": "2TB, 8GB NAND Flash, 7200RPM, SATA 6Gb/s",
+      "Port": "SATA",
+      "Type": "Hybrid Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Logitech G Pro Wireless Gaming Mouse",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "The Logitech G Pro Wireless Gaming Mouse offers exceptional wireless performance and a lightweight design.",
+    "Key Features": {
+      "Brand": "Logitech",
+      "Model": "G Pro Wireless",
+      "Specification": "16,000 DPI HERO Sensor, LIGHTSPEED Wireless Technology, 8 Programmable Buttons",
+      "Port": "USB-A, USB-C",
+      "Type": "Gaming Mouse",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1603481546579-65d935ba9cdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "ViewSonic XG2402 24-Inch Gaming Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 249.99,
+    "Description": "The ViewSonic XG2402 is a 24-inch gaming monitor with a 144Hz refresh rate and AMD FreeSync technology.",
+    "Key Features": {
+      "Brand": "ViewSonic",
+      "Model": "XG2402",
+      "Specification": "24\" TN Panel, Full HD (1920x1080) Resolution, 1ms Response Time",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Monitor",
+      "Resolution": "1920x1080",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1624705013726-8cb4f9415f40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "ADATA XPG SPECTRIX D60G 16GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 99.99,
+    "Description": "The ADATA XPG SPECTRIX D60G 16GB DDR4 RAM features striking RGB lighting and high-speed performance.",
+    "Key Features": {
+      "Brand": "ADATA",
+      "Model": "XPG SPECTRIX D60G",
+      "Specification": "16GB (2 x 8GB) DDR4, 3200MHz, CL16",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 80
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1605826832916-d0ea9d6fe71e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "Product Name": "Crucial P5 1TB NVMe M.2 SSD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 179.99,
+    "Description": "The Crucial P5 1TB NVMe M.2 SSD offers blazing-fast read and write speeds for your data-intensive tasks.",
+    "Key Features": {
+      "Brand": "Crucial",
+      "Model": "P5",
+      "Specification": "1TB, NVMe M.2 2280, Read Speed up to 3400 MB/s, Write Speed up to 3000 MB/s",
+      "Port": "M.2 (PCIe 3.0 x4)",
+      "Type": "Solid State Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
+    "Product Name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 169.99,
+    "Description": "The Razer BlackWidow Elite is a feature-packed mechanical gaming keyboard with Razer Green switches.",
+    "Key Features": {
+      "Brand": "Razer",
+      "Model": "BlackWidow Elite",
+      "Specification": "Razer Green Mechanical Switches, Customizable RGB Lighting, Ergonomic Wrist Rest",
+      "Port": "USB 2.0, Audio Passthrough",
+      "Type": "Gaming Keyboard",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1561883088-039e53143d73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "NZXT Kraken X63 280mm AIO Liquid Cooler",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 149.99,
+    "Description": "The NZXT Kraken X63 is a high-performance AIO liquid cooler with a 280mm radiator and customizable RGB lighting.",
+    "Key Features": {
+      "Brand": "NZXT",
+      "Model": "Kraken X63",
+      "Specification": "280mm Radiator, Dual Aer P140 PWM Fans, CAM Powered",
+      "Port": "4-pin PWM",
+      "Type": "AIO Liquid Cooler",
+      "Resolution": "N/A",
+      "Voltage": "12V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1555581064-8ce820e50679?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Samsung 970 EVO Plus 500GB NVMe M.2 SSD",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c391",
+      "name": "Storage Device"
+    },
+    "Status": "In Stock",
+    "Price": 99.99,
+    "Description": "The Samsung 970 EVO Plus 500GB NVMe M.2 SSD offers exceptional performance and reliability for your PC.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "970 EVO Plus",
+      "Specification": "500GB, NVMe M.2 2280, Read Speed up to 3500 MB/s, Write Speed up to 3200 MB/s",
+      "Port": "M.2 (PCIe 3.0 x4)",
+      "Type": "Solid State Drive",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1634003309801-2bf5185d0eec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Logitech G502 HERO Gaming Mouse",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 79.99,
+    "Description": "The Logitech G502 HERO is a highly customizable gaming mouse with advanced optical sensor technology.",
+    "Key Features": {
+      "Brand": "Logitech",
+      "Model": "G502 HERO",
+      "Specification": "16,000 DPI HERO Sensor, 11 Programmable Buttons, Adjustable Weight System",
+      "Port": "USB-A",
+      "Type": "Gaming Mouse",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1620368523823-44cc31261384?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "EVGA GeForce RTX 3060 Ti Graphics Card",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 499.99,
+    "Description": "The EVGA GeForce RTX 3060 Ti offers excellent gaming performance and ray tracing capabilities.",
+    "Key Features": {
+      "Brand": "EVGA",
+      "Model": "GeForce RTX 3060 Ti",
+      "Specification": "8GB GDDR6, Ray Tracing Cores, Dual Fan Cooling",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1660855551740-4474188debdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "Product Name": "ASUS ROG Crosshair VIII Hero X570 Motherboard",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38e",
+      "name": "Motherboard"
+    },
+    "Status": "In Stock",
+    "Price": 349.99,
+    "Description": "The ASUS ROG Crosshair VIII Hero is a high-end motherboard with advanced features for gaming enthusiasts.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "ROG Crosshair VIII Hero",
+      "Specification": "ATX Form Factor, AMD AM4 Socket, PCIe 4.0 Support, USB 3.2 Gen2",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Motherboard",
+      "Resolution": "Up to 4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1634003311313-2ac6bacabc66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Corsair RM750x 750W Power Supply",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c390",
+      "name": "Power Supply Unit"
+    },
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "The Corsair RM750x 750W PSU provides reliable and efficient power delivery for your high-performance system.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "RM750x",
+      "Specification": "750W, 80 Plus Gold Certified, Fully Modular",
+      "Port": "N/A",
+      "Type": "ATX Power Supply",
+      "Resolution": "N/A",
+      "Voltage": "100-240V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "MSI GeForce RTX 3070 Gaming X Trio Graphics Card",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 699.99,
+    "Description": "The MSI GeForce RTX 3070 Gaming X Trio offers exceptional gaming performance and advanced cooling.",
+    "Key Features": {
+      "Brand": "MSI",
+      "Model": "GeForce RTX 3070 Gaming X Trio",
+      "Specification": "8GB GDDR6, Ray Tracing Cores, Tri Frozr 2 Cooling",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Graphics Card",
+      "Resolution": "4K",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=842&q=80",
+    "Product Name": "G.SKILL Trident Z RGB 32GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 199.99,
+    "Description": "The G.SKILL Trident Z RGB 32GB DDR4 RAM features stylish RGB lighting and high-speed performance for gamers and enthusiasts.",
+    "Key Features": {
+      "Brand": "G.SKILL",
+      "Model": "Trident Z RGB",
+      "Specification": "32GB (2 x 16GB) DDR4, 3200MHz, CL16",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 100
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "Product Name": "ASUS VG279Q 27-Inch Gaming Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 299.99,
+    "Description": "The ASUS VG279Q is a 27-inch gaming monitor with a 144Hz refresh rate and AMD FreeSync technology.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "VG279Q",
+      "Specification": "27\" IPS Panel, Full HD (1920x1080) Resolution, 1ms Response Time",
+      "Port": "HDMI, DisplayPort",
+      "Type": "Gaming Monitor",
+      "Resolution": "1920x1080",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1643966398552-0bb0bf0c78cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "Product Name": "AMD Ryzen 9 5900X Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 579.99,
+    "Description": "The AMD Ryzen 9 5900X is a high-performance CPU with 12 cores and 24 threads, perfect for content creators and gamers.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Ryzen 9 5900X",
+      "Specification": "3.7GHz Base Clock, 4.8GHz Max Boost Clock, AM4 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.2V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 95
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1505327191481-d31e1fb4ff79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1049&q=80",
+    "Product Name": "Crucial Ballistix 16GB DDR4 RAM",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38f",
+      "name": "RAM"
+    },
+    "Status": "In Stock",
+    "Price": 89.99,
+    "Description": "The Crucial Ballistix 16GB DDR4 RAM provides high-speed performance and is ideal for gaming and multitasking.",
+    "Key Features": {
+      "Brand": "Crucial",
+      "Model": "Ballistix",
+      "Specification": "16GB (2 x 8GB) DDR4, 3600MHz, CL16",
+      "Port": "N/A",
+      "Type": "Desktop Memory",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Samsung 32-Inch 4K UHD Monitor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c392",
+      "name": "Monitor"
+    },
+    "Status": "In Stock",
+    "Price": 599.99,
+    "Description": "The Samsung 32-Inch 4K UHD Monitor offers stunning picture quality and is perfect for content creation and entertainment.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "32-Inch 4K UHD Monitor",
+      "Specification": "32\" IPS Panel, 4K UHD (3840x2160) Resolution, 60Hz Refresh Rate",
+      "Port": "HDMI, DisplayPort",
+      "Type": "4K Monitor",
+      "Resolution": "3840x2160",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1640972040132-28b62b6b3718?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "Product Name": "Logitech MX Master 3 Wireless Mouse",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 99.99,
+    "Description": "The Logitech MX Master 3 is a versatile wireless mouse with advanced features and ergonomic design.",
+    "Key Features": {
+      "Brand": "Logitech",
+      "Model": "MX Master 3",
+      "Specification": "4000 DPI Sensor, Customizable Buttons, Multi-Device Connectivity",
+      "Port": "USB-A, USB-C",
+      "Type": "Wireless Mouse",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.9,
+    "Average Rating (Out of 5 Stars)": 4.8,
+    "Reviews": 90
+  },
+  {
+    "Image": "https://plus.unsplash.com/premium_photo-1680124607734-04893addb6e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "NZXT H510 Compact ATX Mid-Tower Case",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c393",
+      "name": "Others"
+    },
+    "Status": "In Stock",
+    "Price": 79.99,
+    "Description": "The NZXT H510 is a compact and stylish mid-tower case with excellent cable management and airflow.",
+    "Key Features": {
+      "Brand": "NZXT",
+      "Model": "H510",
+      "Specification": "ATX Mid-Tower, Tempered Glass Side Panel, Cable Management System",
+      "Port": "USB 3.1 Gen1, Audio",
+      "Type": "PC Case",
+      "Resolution": "N/A",
+      "Voltage": "N/A"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.7,
+    "Average Rating (Out of 5 Stars)": 4.6,
+    "Reviews": 85
+  },
+  {
+    "Image": "https://images.unsplash.com/photo-1651612448880-2f1bc9145f8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "Product Name": "Intel Core i7-11700K Processor",
+    "Category": {
+      "id": "64c37c37be85a3400fb0c38d",
+      "name": "CPU / Processor"
+    },
+    "Status": "In Stock",
+    "Price": 399.99,
+    "Description": "The Intel Core i7-11700K is a high-performance CPU with 8 cores and 16 threads, great for gaming and multitasking.",
+    "Key Features": {
+      "Brand": "Intel",
+      "Model": "Core i7-11700K",
+      "Specification": "3.6GHz Base Clock, 5.0GHz Max Turbo Boost, LGA1200 Socket",
+      "Port": "No integrated graphics",
+      "Type": "Desktop Processor",
+      "Resolution": "N/A",
+      "Voltage": "1.35V"
+    },
+    "Individual Rating (Out of 5 Stars)": 4.8,
+    "Average Rating (Out of 5 Stars)": 4.7,
+    "Reviews": 95
+  }
+]
