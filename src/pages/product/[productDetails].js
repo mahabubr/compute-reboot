@@ -16,8 +16,8 @@ const Product = ({ product }) => {
 
   return (
     <div className="container mx-auto w-11/12 my-20">
-      <div className="flex justify-center items-center gap-10 ">
-        <div className="w-6/12">
+      <div className="lg:flex justify-center items-center gap-10 ">
+        <div className="lg:w-6/12">
           <Image
             src={image}
             width={600}
@@ -27,7 +27,7 @@ const Product = ({ product }) => {
             className="object-cover rounded-md drop-shadow-2xl"
           />
         </div>
-        <div className="w-6/12">
+        <div className="lg:w-6/12 mt-5 lg:mt-0">
           <h2 className="text-2xl text-sky-800">{product_name}</h2>
           <h3 className="text-lg font-normal text-orange-600 mt-2">
             Category : {category.name}
