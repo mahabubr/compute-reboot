@@ -1,10 +1,8 @@
 import { Card } from "antd";
 import Image from "next/image";
-const { Meta } = Card;
+import Link from "next/link";
 
 const Products = ({ products }) => {
-  console.log(products);
-
   return (
     <div className="my-20">
       <div>
@@ -28,21 +26,22 @@ const Products = ({ products }) => {
               status,
               average_rating,
             }) => (
-              <Card
-                key={_id}
-                hoverable
-                cover={<Image src={image} height={200} width={200} alt="" />}
-              >
-                <h3 className="text-md font-medium text-justify h-14">
-                  {product_name}
-                </h3>
-                <h4 className="text-lg mt-1 text-orange-600">
-                  {category.name}
-                </h4>
-                <p className="mt-1 text-green-600 font-bold">$ {price}</p>
-                <p className="mt-1 text-gray-600 font-bold">{status}</p>
-                <p className="mt-1 text-red-600">{average_rating} out of 5</p>
-              </Card>
+              <Link key={_id} href={`/product/${_id}`} className="no-underline">
+                <Card
+                  hoverable
+                  cover={<Image src={image} height={200} width={200} alt="" />}
+                >
+                  <h3 className="text-md font-medium text-justify h-14">
+                    {product_name}
+                  </h3>
+                  <h4 className="text-lg mt-1 text-orange-600">
+                    {category.name}
+                  </h4>
+                  <p className="mt-1 text-green-600 font-bold">$ {price}</p>
+                  <p className="mt-1 text-gray-600 font-bold">{status}</p>
+                  <p className="mt-1 text-red-600">{average_rating} out of 5</p>
+                </Card>
+              </Link>
             )
           )}
       </div>

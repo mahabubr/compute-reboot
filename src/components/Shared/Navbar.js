@@ -25,8 +25,8 @@ const Navbar = () => {
     <div className="bg-gray-950 p-4">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
-          <Link href="/">
-            <h2 className="text-white text-2xl font-bold">Compute Reboot</h2>
+          <Link href="/" className="no-underline">
+            <h2 className="text-white text-2xl font-bold ">Compute Reboot</h2>
           </Link>
           <div>
             <Dropdown overlay={menu} trigger={["click"]}>
