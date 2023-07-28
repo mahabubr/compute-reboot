@@ -9,6 +9,9 @@ const Product = ({ product }) => {
     status,
     description,
     key_features,
+    individual_rating,
+    average_rating,
+    reviews,
   } = product;
 
   return (
@@ -62,6 +65,11 @@ const Product = ({ product }) => {
             <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
               voltage : {key_features.voltage}
             </p>
+          </div>
+          <div className="mt-10 space-y-2">
+            <p className="text-red-600 font-semibold drop-shadow-md">Individual Rating: {individual_rating} out of 5</p>
+            <p className="text-red-600 font-semibold drop-shadow-md">Average Rating: {average_rating} out of 5</p>
+            <p className="text-red-600 font-semibold drop-shadow-md">Reviews: {reviews} user</p>
           </div>
         </div>
       </div>
