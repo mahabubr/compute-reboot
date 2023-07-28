@@ -14,7 +14,11 @@ const Catagories = ({ catagories }) => {
       </div>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-10">
         {catagories.map((cat) => (
-          <Link href={`/category/${cat._id}`} className="no-underline" key={cat._id}>
+          <Link
+            href={`/category/${cat._id}`}
+            className="no-underline"
+            key={cat._id}
+          >
             <Card hoverable className="rounded-none  text-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

@@ -1,4 +1,5 @@
 import client from "@/utils/db";
+import { ObjectId } from "mongodb";
 
 async function run(req, res) {
   try {
@@ -15,6 +16,16 @@ async function run(req, res) {
         }).toArray();
         return res.status(200).json({
           message: "Category products get successful",
+          status: 200,
+          data: result,
+        });
+      } else if (req.query.product) {
+        const id = req.query.product;
+        const result = await ProductsCollection.findOne({
+          _id: new ObjectId(id),
+        });
+        return res.status(200).json({
+          message: "Single products get successful",
           status: 200,
           data: result,
         });
