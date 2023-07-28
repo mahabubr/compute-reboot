@@ -1,6 +1,72 @@
+import Image from "next/image";
+
 const Product = ({ product }) => {
-  console.log(product);
-  return <div className="container mx-auto w-11/12 my-20">Product</div>;
+  const {
+    image,
+    product_name,
+    category,
+    price,
+    status,
+    description,
+    key_features,
+  } = product;
+
+  return (
+    <div className="container mx-auto w-11/12 my-20">
+      <div className="flex justify-center items-center gap-10 ">
+        <div className="w-6/12">
+          <Image
+            src={image}
+            width={600}
+            height={500}
+            alt=""
+            style={{ width: "100%" }}
+            className="object-cover rounded-md drop-shadow-2xl"
+          />
+        </div>
+        <div className="w-6/12">
+          <h2 className="text-2xl text-sky-800">{product_name}</h2>
+          <h3 className="text-lg font-normal text-orange-600 mt-2">
+            Category : {category.name}
+          </h3>
+          <div className="mt-4 flex justify-between ">
+            <p className="bg-purple-500 px-4 py-2 text-white font-bold rounded-full">
+              Price: $ {price}
+            </p>
+            <p className="bg-purple-500 px-4 py-2 text-white font-bold rounded-full">
+              Status: {status}
+            </p>
+          </div>
+          <p className="mt-6 text-gray-600 leading-6 tracking-wider">
+            {description}
+          </p>
+          <div className="mt-8 space-y-2 ">
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              brand : {key_features.brand}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              model : {key_features.model}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              specification : {key_features.specification}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              port : {key_features.port}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              resolution : {key_features.resolution}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              type : {key_features.type}
+            </p>
+            <p className="bg-slate-200 px-2 py-1 rounded-md text-sm font-semibold inline-block mr-3">
+              voltage : {key_features.voltage}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export const getStaticPaths = async () => {
