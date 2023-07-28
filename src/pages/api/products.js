@@ -5,16 +5,27 @@ async function run(req, res) {
     await client.connect();
 
     const ComputeRebootCollection = client.db("compute-reboot");
-
     const ProductsCollection = ComputeRebootCollection.collection("products");
 
     if (req.method === "GET") {
-      const result = await ProductsCollection.find({}).toArray();
-      res.send({
-        message: "Products get successful",
-        status: 200,
-        data: result,
-      });
+      if (req.query.category) {
+        const id = req.query.category;
+        const result = await ProductsCollection.find({
+          "category.id": id,
+        }).toArray();
+        return res.status(200).json({
+          message: "Category products get successful",
+          status: 200,
+          data: result,
+        });
+      } else {
+        const result = await ProductsCollection.find({}).toArray();
+        return res.status(200).json({
+          message: "Products get successful",
+          status: 200,
+          data: result,
+        });
+      }
     }
 
     console.log("database connect");
