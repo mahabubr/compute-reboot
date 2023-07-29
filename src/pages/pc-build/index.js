@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 const PcBuild = () => {
   const { build } = useSelector((state) => state);
   const { cpu, motherboard, ram, power, storage, monitor } = build;
-  console.log(cpu);
+
   return (
     <div className="container mx-auto w-11/12 my-10">
       <div>
