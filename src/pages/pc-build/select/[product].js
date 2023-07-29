@@ -22,19 +22,20 @@ const SelectProduct = ({ category }) => {
           <Card
             key={product._id}
             hoverable
-            className="flex justify-start items-center"
+            className="md:flex justify-start items-center"
             cover={
               <Image
                 src={product.image}
-                className="object-cover w-56"
+                className="object-cover md:w-56"
                 height={200}
                 width={100}
+                style={{ width: "100%" }}
                 alt=""
               />
             }
           >
             <div>
-              <h3 className="text-md font-medium text-justify ">
+              <h3 className="text-md font-medium text-justify">
                 {product.product_name}
               </h3>
               <h4 className="text-md mt-1 text-orange-600">
@@ -50,7 +51,10 @@ const SelectProduct = ({ category }) => {
             </div>
             <div className="mt-4">
               <Link href="/pc-build">
-                <Button onClick={() => dispatch(addToBuild(product))} type="default">
+                <Button
+                  onClick={() => dispatch(addToBuild(product))}
+                  type="default"
+                >
                   Add To Builder
                 </Button>
               </Link>
@@ -62,20 +66,20 @@ const SelectProduct = ({ category }) => {
   );
 };
 
-export const getStaticPaths = async () => {
-  const res = await fetch("http://localhost:3000/api/categories");
-  const data = await res.json();
+// export const getStaticPaths = async () => {
+//   const res = await fetch("http://localhost:3000/api/categories");
+//   const data = await res.json();
 
-  const paths = data.data.map((cat) => ({
-    params: {
-      product: cat._id,
-    },
-  }));
+//   const paths = data.data.map((cat) => ({
+//     params: {
+//       product: cat._id,
+//     },
+//   }));
 
-  return { paths, fallback: false };
-};
+//   return { paths, fallback: false };
+// };
 
-export const getStaticProps = async (context) => {
+export const getServerSideProps = async (context) => {
   const { params } = context;
 
   const res = await fetch(
