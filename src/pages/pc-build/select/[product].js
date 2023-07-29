@@ -66,19 +66,6 @@ const SelectProduct = ({ category }) => {
   );
 };
 
-// export const getStaticPaths = async () => {
-//   const res = await fetch("http://localhost:3000/api/categories");
-//   const data = await res.json();
-
-//   const paths = data.data.map((cat) => ({
-//     params: {
-//       product: cat._id,
-//     },
-//   }));
-
-//   return { paths, fallback: false };
-// };
-
 export const getServerSideProps = async (context) => {
   const { params } = context;
 

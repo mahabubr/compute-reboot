@@ -2,10 +2,15 @@ import { Button } from "antd";
 import Image from "next/image";
 import Link from "next/link";
 import { useSelector } from "react-redux";
+import Swal from "sweetalert2";
 
 const PcBuild = () => {
   const { build } = useSelector((state) => state);
   const { cpu, motherboard, ram, power, storage, monitor } = build;
+
+  const handleSuccess = () => {
+    Swal.fire("Congratulations", "You build your pc successful", "success");
+  };
 
   return (
     <div className="container mx-auto w-11/12 my-10">
@@ -430,6 +435,7 @@ const PcBuild = () => {
             !monitor._id
           }
           className="bg-red-500 mt-8 h-10 w-56"
+          onClick={handleSuccess}
         >
           Complete Build
         </Button>
