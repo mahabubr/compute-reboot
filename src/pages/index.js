@@ -1,9 +1,11 @@
 import Catagories from "@/components/Home/Catagories/Catagories";
+import Hero from "@/components/Home/Hero/Hero";
 import Products from "@/components/Home/Products/Products";
 
 const Home = ({ products, catagories }) => {
   return (
-    <div className="container mx-auto w-11/12">
+    <div>
+      <Hero />
       <Products products={products} />
       <Catagories catagories={catagories} />
     </div>
