@@ -11,7 +11,7 @@ const Navbar = () => {
   const { data: session } = useSession();
 
   useEffect(() => {
-    fetch("http://localhost:3000/api/categories")
+    fetch("https://compute-reboot.vercel.app/api/categories")
       .then((res) => res.json())
       .then((data) => setCategories(data.data));
   }, []);

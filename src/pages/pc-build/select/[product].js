@@ -70,7 +70,7 @@ export const getServerSideProps = async (context) => {
   const { params } = context;
 
   const res = await fetch(
-    `http://localhost:3000/api/products?category=${params.product}`
+    `https://compute-reboot.vercel.app/api/products?category=${params.product}`
   );
   const data = await res.json();
 

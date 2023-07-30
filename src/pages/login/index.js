@@ -5,14 +5,14 @@ import { signIn } from "next-auth/react";
 const Login = () => {
   const handleGoogleLogin = () => {
     signIn("google", {
-      callbackUrl: "http://localhost:3000",
+      callbackUrl: "https://compute-reboot.vercel.app",
     });
   };
 
   const handleGitHubLogin = () => {
     // Handle GitHub login logic here
     signIn("github", {
-      callbackUrl: "http://localhost:3000",
+      callbackUrl: "https://compute-reboot.vercel.app",
     });
   };
 

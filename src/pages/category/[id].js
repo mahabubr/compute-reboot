@@ -48,7 +48,7 @@ const CategoryDetails = ({ category }) => {
 };
 
 export const getStaticPaths = async () => {
-  const res = await fetch("http://localhost:3000/api/categories");
+  const res = await fetch("https://compute-reboot.vercel.app/api/categories");
   const data = await res.json();
 
   const paths = data.data.map((cat) => ({
@@ -64,7 +64,7 @@ export const getStaticProps = async (context) => {
   const { params } = context;
 
   const res = await fetch(
-    `http://localhost:3000/api/products?category=${params.id}`
+    `https://compute-reboot.vercel.app/api/products?category=${params.id}`
   );
   const data = await res.json();
 
